@@ -23,7 +23,8 @@ This repository showcases a **full-stack NFT marketplace** integrated with Aptos
 4. [Smart Contract Link](#smart-contract-link-)
 5. [Test Network Setup](#test-network-setup-)
 6. [Video Showcase](#video-showcase-)
-7. [Contact Information](#contact-information-)
+7. [Troubleshooting and Error Handling](#-error-handling--troubleshooting-%EF%B8%8F)
+8. [Contact Information](#contact-information-)
 
 
 ---
